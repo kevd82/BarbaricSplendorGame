@@ -1,0 +1,45 @@
+[REQUIRED] Name: Kevin Deming
+[REQUIRED] Project Title: Barbaric Splendor Card Maker
+[REQUIRED] Project Stack: MERN
+[REQUIRED] GitHub Repo Link: (empty) https://github.com/kevd82/BarbaricSplendorGame
+
+[REQUIRED] Project Description: This will be the beginnings of a project that will have online resources for a game that I am developing using an existing ruleset - 
+to start with I plan to create a application that will allow users to create cards to use in their games with the existing ruleset.
+
+[REQUIRED] New Programming Concept(s) (1)I'm Planning to Learn: I will need to learn how to transform the data display I create into an image that can be saved for printing.
+(2) I plan a dropdown menu to select character abilities to be displayed on the card and will need to learn how to have a description of each ability display when that option
+is hovered over(maybe right-click?) (3)I will need to learn how to allow only the creator of each card to be able to edit/delete.
+
+[REQUIRED] Week 1 Features (to show at Review during Week 2):Card information input and database storage, designging dropdown menus for abilities and stat numbers, login and registration
+- 
+
+[REQUIRED] Week 2 Features (to show at first office hour/lecture of Week 3): Displaying info in card format and allowing for saving as image by user so they can print it, css for both cards and the site itself.
+- ***Finish CSS work (could be Bootstrap or another framework too instead of CSS)***
+- 
+
+[REQUIRED] Product Backlog (If I have more time after completing my MVP, I'll start to work on...): In the future, there will be variations on the cards for my own game in addition to this initial set, so perhaps working on that.
+- 
+
+
+
+
+
+
+Other Week 1 Tasks
+- Sign up for a group (https://docs.google.com/spreadsheets/d/17amQ1VW4wAWI9tz-9qVTq9pf1HCAnQkki_3W8tLbOLY/edit#gid=0)
+- Schedule a Review during Week 2 (https://calendly.com/d/cnc-5t7-4yv/solo-project-sprint-w1-review)
+- Create GitHub repo for project
+- Create a .gitignore file for my project for my GitHub repo (enter in React, Python, or Java at https://www.toptal.com/developers/gitignore)
+- Finish this completed txt file and create project wireframe using Balsamiq (https://balsamiq.com/wireframes/) [Drawings and other wireframe programs also accepted!]
+- Email Zack this completed txt file, and project wireframe for approval
+- Submit completed wireframe on platform (https://login.codingdojo.com/m/97/6237/44911)
+- Complete Arrays To Do 1 & Arrays To Do 2 assignments
+
+
+Other Week 2 Tasks
+- Schedule my time for my presentation (https://docs.google.com/spreadsheets/d/17amQ1VW4wAWI9tz-9qVTq9pf1HCAnQkki_3W8tLbOLY/edit#gid=414986054)
+- Begin to talk with group about project ideas and what skills I bring to the table
+- Complete Singly Linked Lists Fronts & Display assignments
+
+
+
